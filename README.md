@@ -6,57 +6,27 @@ Bitcoin Links was a curated directory of the Bitcoin ecosystem. This repository 
 
 - [CoinChoose](http://www.coinchoose.com/) - Overview of respective profitability of the alt coins.  #charts
 
-## Altcoin exchanges
-
-- [Bter.com](http://bter.com/) - Bitcoin and Crypto-currency Exchange Platform  #exchanges
-- [Crypto Rush](https://www.cryptorush.in/) - Exchange InfiniteCoin for other cryptocurrencies  #exchanges
-- [MintPal](https://www.mintpal.com/) - Fast, Efficient and Secure Cryptocurrency Exchange Featuring Bitcoin  #exchanges
-- [Vircurex](https://vircurex.com/) - Exchange platform for numerous virtual currencies, including Bitcoins, Namecoins and Litecoins.  #exchanges
-
 ## Android apps
 
 - [Gliph](https://gli.ph/) - Secure text messaging app with mobile Bitcoin payments.  #ios_apps
 
-## Apis
-
-- [Bitcoin Charts API](http://bitcoincharts.com/about/markets-api/) - Bitcoincharts provides a simple API to most of its data. You can use this API to include markets data in your websites, mobile apps or desktop applets.
-- [Block inspector / API](http://blockr.io/documentation/api) - Documentation for the Block inspector blockchain and transaction API.
-
 ## Apps
 
 - [Bitcoin Flip](https://bitcoinflipapp.com/) - Bitcoin Flip is a Cryptocurrency Trading Game for Beginner Investors.  #games
-- [Bitcoin price checker](https://1btc.to/) - Easy to remember bitcoin price checker webapp.
 - [Delta Investment Tracker](https://delta.app/) - Portfolio tracker with crypto, stocks, mutual funds, ETFs, indices and more. Powered by eToro.  #charts
-- [Kraken for iOS](https://itunes.apple.com/app/id914671502) - Trade bitcoin and other digital assets with Kraken.  #ios_apps #tickers #alerts #calculators #mobile_trading
 - [Satoshi's Place](https://satoshis.place/) - Satoshi's Place is a Lightning Network powered online collaborative artboard. Inspired by Reddit Place, and the Million Dollar Homepage.  #games #lightning_network
-
-## Arbitrage
-
-- [Bitcoin Analytics](http://bitcoin-analytics.com/) - Bitcoin realtime charts for order book, trades and arbitrage opportunities.  #charts #realtime_charts
 
 ## Bitcoin atm vendors
 
 - [Lamassu](https://lamassu.is/) - Bitcoin ATM Machine
 
-## Bitcoin games
-
-- [Bitcoin Pyramid](http://bitcoinpyramid.com/r/12175) - Referral-based pyramid game.  #pyramid_schemes #referral_marketing
-
 ## Bitcoin transfers
 
 - [Coinapult](https://coinapult.com/) - Send Bitcoins to any email or mobile phone.
-- [TipperCoin](http://www.tippercoin.com/) - Send Bitcoins over Twitter.  #twitter_bots
-- [Twitacoin](http://twitacoin.com/) - Twitacoin is a service to let you send and receive bitcoin over twitter.  #twitter_bots
-
-## Bitcoin tumblers
-
-- [Shared Coin](https://sharedcoin.com/) - Make your transactions private without needing to trust the Shared Coin service.  #transaction_tools #privacy
 
 ## Blockchain explorers
 
-- [Btcaddr.es](http://btcaddr.es/) - Bitcoin address shortener, address lookup, QR generator and other resources.  #qr_generators #address_shorteners
 - [BTCLook](http://btclook.com/) - A way to verify bitcoin transactions and trace events in the public bitcoin and testnet block chain.
-- [Chain](https://chain.com/) - Block Chain API for Developers  #apis
 
 ## Blockchain tools
 
